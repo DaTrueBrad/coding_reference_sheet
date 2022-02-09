@@ -36,7 +36,6 @@ This is a references sheet that can be added to by the community! It should hous
 <details>
 <summary>Javascript</summary>
 <br>
-  <li>
     <details>
       <summary>React</summary>
       <br>
@@ -56,7 +55,6 @@ This is a references sheet that can be added to by the community! It should hous
         </a>
       </li>
     </details>
-  </li>
   <li>
     <a href="https://itwebtutorials.mga.edu/html/chp2/headings.aspx" target="_blank">
       Headings
