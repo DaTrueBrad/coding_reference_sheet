@@ -5,4 +5,7 @@ This is a references sheet that can be added to by the community! It should hous
 <summary>HTML</summary>
 <br>
   <li><a href="https://itwebtutorials.mga.edu/html/chp2/document-structure.aspx" target="__blank">Document Structure</a></li>
+  <li><a href="https://itwebtutorials.mga.edu/html/chp2/headings.aspx" target="__blank">Headings</a></li>
+  <li><a href="https://itwebtutorials.mga.edu/html/chp2/list-structures.aspx" target="__blank">Lists</a></li>
+  <li><a href="https://itwebtutorials.mga.edu/html/chp3/spans-divisions.aspx" target="__blank">Div vs Span</a></li>
 </details>
