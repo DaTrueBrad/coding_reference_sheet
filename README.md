@@ -39,80 +39,67 @@ This is a references sheet that can be added to by the community! It should hous
     <details>
       <summary>React</summary>
       <br>
-      
       <li>
         <a href="https://reactrouter.com/docs/en/v6/getting-started/overview" target="_blank">
           React-Router
         </a>
       </li>
-      
       <li>
         <a href="https://reactjs.org/docs/lists-and-keys.html" target="_blank">
           .map
         </a>
       </li>
-      
       <li>
         <a href="https://www.robinwieruch.de/react-folder-structure/" target="_blank">
           Folder Structure
         </a>
       </li>
-      
   </details>
     <details>
       <summary>ES6 Javascript</summary>
       <br>
-      
       <li>
         <a href="https://www.tutorialspoint.com/javascript/javascript_builtin_functions.htm" target="_blank">
           Built-in Functions
         </a>
       </li>
-      
     </details>
   </details>
 </details>
 
 <details>
       <summary>Cheat Sheets</summary>
-      <br>
-      
+      <br/>
       <li>
         <a href="https://overapi.com/html" target="_blank">
           HTML
         </a>
       </li>
-  
        <li>
         <a href="https://overapi.com/css" target="_blank">
           CSS
         </a>
       </li>
-  
        <li>
         <a href="https://overapi.com/javascript" target="_blank">
           Javascript
         </a>
       </li>
-  
        <li>
         <a href="https://overapi.com/mysql" target="_blank">
           SQL
         </a>
       </li>
-  
        <li>
         <a href="https://devhints.io/react" target="_blank">
           React
         </a>
       </li>
-  
        <li>
         <a href="https://overapi.com/nodejs" target="_blank">
           Node.js
         </a>
       </li>
-      
     </details>
 
 
