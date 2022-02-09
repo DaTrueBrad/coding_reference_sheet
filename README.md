@@ -54,6 +54,16 @@ This is a references sheet that can be added to by the community! It should hous
           Folder Structure
         </a>
       </li>
+      <li>
+        <a href="https://kapeli.com/cheat_sheets/Axios.docset/Contents/Resources/Documents/index" target="_blank">
+          Axios
+        </a>
+      </li>
+      <li>
+        <a href="https://docs.google.com/document/d/1cvjQIxMaM5h-TysEgx9v3fGlxkkl0PxuwQ55SqbeU1U/edit?usp=sharing" target="_blank">
+          .env File
+        </a>
+      </li>
   </details>
     <details>
       <summary>ES6 Javascript</summary>
@@ -61,6 +71,11 @@ This is a references sheet that can be added to by the community! It should hous
       <li>
         <a href="https://www.tutorialspoint.com/javascript/javascript_builtin_functions.htm" target="_blank">
           Built-in Functions
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/DaTrueBrad/server_file_example/blob/main/index.js" target="_blank">
+          Example NodeJS Server File
         </a>
       </li>
     </details>
