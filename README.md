@@ -70,5 +70,49 @@ This is a references sheet that can be added to by the community! It should hous
       </li>
       
     </details>
-  
+  </details>
 </details>
+
+<details>
+      <summary>Cheat Sheets</summary>
+      <br>
+      
+      <li>
+        <a href="https://overapi.com/html" target="_blank">
+          HTML
+        </a>
+      </li>
+  
+       <li>
+        <a href="https://overapi.com/css" target="_blank">
+          CSS
+        </a>
+      </li>
+  
+       <li>
+        <a href="https://overapi.com/javascript" target="_blank">
+          Javascript
+        </a>
+      </li>
+  
+       <li>
+        <a href="https://overapi.com/mysql" target="_blank">
+          SQL
+        </a>
+      </li>
+  
+       <li>
+        <a href="https://devhints.io/react" target="_blank">
+          React
+        </a>
+      </li>
+  
+       <li>
+        <a href="https://overapi.com/nodejs" target="_blank">
+          Node.js
+        </a>
+      </li>
+      
+    </details>
+
+
