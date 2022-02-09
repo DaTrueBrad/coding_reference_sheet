@@ -4,7 +4,7 @@ This is a references sheet that can be added to by the community! It should hous
 <details>
 <summary>HTML</summary>
 <br>
-This is HTML
+- [Document Structure](https://itwebtutorials.mga.edu/html/chp2/document-structure.aspx)
 </details>
 
 | Syntax      | Description |
