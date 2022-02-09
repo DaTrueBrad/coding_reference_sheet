@@ -6,10 +6,7 @@ This is a references sheet that can be added to by the community! It should hous
 <br>
 This is HTML
 </details>
-<table>
-<tr>
-<th> Good </th>
-<th> Bad </th>
-</tr>
-<tr>
-<td>
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
