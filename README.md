@@ -6,7 +6,8 @@ This is a references sheet that can be added to by the community! It should hous
 <br>
 This is HTML
 </details>
+
 | Syntax      | Description |
 | ----------- | ----------- |
-| Header      | Title       |
+| This      | That       |
 | Paragraph   | Text        |
