@@ -55,19 +55,15 @@ This is a references sheet that can be added to by the community! It should hous
         </a>
       </li>
     </details>
-  <li>
-    <a href="https://itwebtutorials.mga.edu/html/chp2/headings.aspx" target="_blank">
-      Headings
-    </a>
-  </li>
-  <li>
-    <a href="https://itwebtutorials.mga.edu/html/chp2/list-structures.aspx" target="_blank">
-      Lists
-    </a>
-  </li>
-  <li>
-    <a href="https://itwebtutorials.mga.edu/html/chp3/spans-divisions.aspx" target="_blank">
-      Div vs Span
-    </a>
-  </li>
+  
+    <details>
+      <summary>Javascript</summary>
+      <br>
+      <li>
+        <a href="https://www.tutorialspoint.com/javascript/javascript_builtin_functions.htm" target="_blank">
+          Built-in Functions
+        </a>
+      </li>
+    </details>
+  
 </details>
