@@ -39,31 +39,36 @@ This is a references sheet that can be added to by the community! It should hous
     <details>
       <summary>React</summary>
       <br>
+      
       <li>
         <a href="https://reactrouter.com/docs/en/v6/getting-started/overview" target="_blank">
           React-Router
         </a>
       </li>
+      
       <li>
         <a href="https://reactjs.org/docs/lists-and-keys.html" target="_blank">
           .map
         </a>
       </li>
+      
       <li>
         <a href="https://www.robinwieruch.de/react-folder-structure/" target="_blank">
           Folder Structure
         </a>
       </li>
-    </details>
-  
+      
+  </details>
     <details>
-      <summary>Javascript</summary>
+      <summary>ES6 Javascript</summary>
       <br>
+      
       <li>
         <a href="https://www.tutorialspoint.com/javascript/javascript_builtin_functions.htm" target="_blank">
           Built-in Functions
         </a>
       </li>
+      
     </details>
   
 </details>
