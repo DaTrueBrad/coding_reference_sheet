@@ -4,10 +4,5 @@ This is a references sheet that can be added to by the community! It should hous
 <details>
 <summary>HTML</summary>
 <br>
-  <li>[Document Structure] (https://itwebtutorials.mga.edu/html/chp2/document-structure.aspx)</li>
+  <li><a href="https://itwebtutorials.mga.edu/html/chp2/document-structure.aspx" target="__blank">Document Structure</a></li>
 </details>
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| This      | That       |
-| Paragraph   | Text        |
