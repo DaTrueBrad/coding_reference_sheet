@@ -31,6 +31,7 @@ This is a references sheet that can be added to by the community! It should hous
 <summary>CSS</summary>
 <br>
   <li><a href="https://flexbox.malven.co/" target="_blank">Flexbox</a></li>
+  <li><a href="https://cssreference.io/" target="_blank">CSS Website w/ Examples</a></li>
 </details>
 
 <details>
