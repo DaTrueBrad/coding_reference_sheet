@@ -118,4 +118,12 @@ This is a references sheet that can be added to by the community! It should hous
       </li>
     </details>
 
-
+<details>
+      <summary>Learn from Scratch</summary>
+      <br/>
+      <li>
+        <a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3" target="_blank">
+          React
+        </a>
+      </li>
+  </details>
